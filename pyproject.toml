@@ -8,6 +8,7 @@ version = "1.0.0"
 description = "Annotate phylogenetic trees with tip metadata and optional APOBEC3 branch labels."
 readme = "README.md"
 requires-python = ">=3.10"
+license = { file = "LICENSE" }
 dependencies = [
     "biopython>=1.85",
     "pandas>=2.3.1",
